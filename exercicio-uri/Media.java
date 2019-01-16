@@ -1,8 +1,8 @@
 /* 
  * Nome do autor: Ilton Batista da Silva Júnior 
  * Data de criação do arquivo: 16/01/2019 
- * Objetivo sucinto do programa:
- * Referência ao enunciado/origem do exercício: https://docs.google.com/document/d/1VQUcUqMjF-UNKKIBhC3uXcmQ_VcVLf_PqZu5ObAyDBk/edit
+ * Objetivo sucinto do programa: Calcular a media
+ * Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
  */
 
 import java.util.Scanner;
