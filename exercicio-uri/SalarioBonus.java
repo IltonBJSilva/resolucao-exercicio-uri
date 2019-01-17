@@ -2,7 +2,7 @@
  * Nome do autor: Ilton Batista da Silva Júnior 
  * Data de criação do arquivo: 15/01/2019 
  * Objetivo sucinto do programa:: Calcula o salário de um funcionário baseado na sua comissão
- * Referência ao enunciado/origem do exercício: 
+ * Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009 
  */
 
 import java.util.Scanner;

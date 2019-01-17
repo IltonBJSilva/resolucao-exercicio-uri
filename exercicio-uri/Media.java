@@ -1,7 +1,7 @@
 /* 
  * Nome do autor: Ilton Batista da Silva Júnior 
  * Data de criação do arquivo: 16/01/2019 
- * Objetivo sucinto do programa: Calcular a media
+ * Objetivo sucinto do programa: Calcular a media de notas de um aluno
  * Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
  */
 

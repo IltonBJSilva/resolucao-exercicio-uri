@@ -1,8 +1,8 @@
 /* 
  * Nome do autor: Ilton Batista da Silva Júnior 
  * Data de criação do arquivo: 16/01/2019 
- * Objetivo sucinto do programa: Calcular a media
- * Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
+ * Objetivo sucinto do programa: Calcular o preço de peças
+ * Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1010
  */
 
 
