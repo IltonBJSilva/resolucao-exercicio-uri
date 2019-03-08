@@ -1,10 +1,9 @@
 /* 
- * Nome do autor: Ilton Batista da Silva Júnior 
- * Data de criação do arquivo: 17/01/2019 
- * Objetivo sucinto do programa: Calcular o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km) e o total de combustível gasto (em litros).
- * Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1014 
+ * Nome do autor: Ilton Batista da Silva Jï¿½nior 
+ * Data de criaï¿½ï¿½o do arquivo: 17/01/2019 
+ * Objetivo sucinto do programa: Calcular o consumo mï¿½dio de um automï¿½vel sendo fornecidos a distï¿½ncia total percorrida (em Km) e o total de combustï¿½vel gasto (em litros).
+ * Referï¿½ncia ao enunciado/origem do exercï¿½cio: https://www.urionlinejudge.com.br/judge/pt/problems/view/1014 
  */
-
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
@@ -32,9 +31,6 @@ public class Consumo {
 		consumoMedio = distanciaTotal / totalCombustivelGasto;
 		
 		System.out.println(decimalFormat.format(consumoMedio) + " km/l");
-	
-		
-	
 		
 	}
 
